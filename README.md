@@ -2,7 +2,7 @@ I work outside sometimes, and i wanted to be able to read the code blocks easier
 
 ![Screenshot of light mode](light-mode-screenshot.png)
 
-To achieve the Above:
+To achieve the above:
 
 1. Use "Code Injector" web extension to inject
 
